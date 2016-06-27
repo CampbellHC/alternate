@@ -3030,7 +3030,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("https://campbellhc.github.io/CampbellHC/alternate/px-alpha/main/images/overlay.png")   , url("https://campbellhc.github.io/CampbellHC/alternate/px-alpha/main/images/banner.jpg");
+		background-image: url("https://campbellhc.github.io/alternate/px-alpha/main/images/overlay.png")   , url("https://campbellhc.github.io/alternate/px-alpha/main/images/banner.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
