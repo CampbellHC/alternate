@@ -1792,7 +1792,7 @@
 /* Basic */
 
 	body {
-		background: #f7f7f7 url("images/bg01.png");
+		background: #f7f7f7 url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 	}
 
 		body.is-loading * {
@@ -2074,10 +2074,10 @@
 			text-align: center;
 			cursor: default;
 			background-color: #6890ca;
-			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
+			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+			background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 			color: #fff;
 			border-radius: 100%;
 			display: inline-block;
@@ -2200,10 +2200,10 @@
 
 			table.default thead {
 				background-color: #555555;
-				background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-				background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-				background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-				background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
+				background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 				color: #fff;
 			}
 
@@ -2221,10 +2221,10 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 		background-color: #6890ca;
 		border-radius: 5px;
 		border: 0;
@@ -2335,7 +2335,7 @@
 		text-align: center;
 		padding: 3em 0 0 0;
 		background-color: #fff;
-		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
+		background-image: url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg02.png"), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg02.png"), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 		background-position: top left,					top left,					top left;
 		background-size: 100% 6em,					100% 6em,					auto;
 		background-repeat: no-repeat,					no-repeat,					repeat;
@@ -2355,10 +2355,10 @@
 	#nav {
 		cursor: default;
 		background-color: #333;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 		padding: 0;
 	}
 
@@ -2368,7 +2368,7 @@
 			width: 100%;
 			height: 0.75em;
 			background-color: #6890ca;
-			background-image: url("images/bg01.png");
+			background-image: url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 		}
 
 		#nav > ul {
@@ -2415,7 +2415,7 @@
 						left: 50%;
 						margin-left: -0.375em;
 						background-color: #6890ca;
-						background-image: url("images/bg01.png");
+						background-image: url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 					}
 
 					#nav > ul > li.current a {
@@ -2438,10 +2438,10 @@
 
 	.dropotron {
 		background-color: #333;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
-		background-image: linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 		border-radius: 5px;
 		color: #fff;
 		min-width: 10em;
@@ -2475,7 +2475,7 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("https://campbellhc.github.io/alternate/px-arcana/main/images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
 		height: 28em;
@@ -2530,7 +2530,7 @@
 
 		.wrapper.style2 {
 			background-color: #fff;
-			background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");
+			background-image: url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg02.png"), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg03.png"), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 			background-position: top left,						bottom left,					top left;
 			background-size: 100% 6em,						100% 6em,						auto;
 			background-repeat: no-repeat,						no-repeat,						repeat;
@@ -2538,10 +2538,10 @@
 
 		.wrapper.style3 {
 			background-color: #6890ca;
-			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
+			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+			background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 			color: #fff;
 		}
 
@@ -2849,10 +2849,10 @@
 				width: 100%;
 				z-index: 10001;
 				background-color: #333;
-				background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-				background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-				background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-				background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
+				background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 				height: 44px;
 				line-height: 44px;
 				box-shadow: 0 4px 0 0 #6890ca;
@@ -2909,10 +2909,10 @@
 			#navPanel {
 				background-color: #1f1f1f;
 				box-shadow: inset -1px 0 3px 0 rgba(0, 0, 0, 0.5);
-				background-image: -moz-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
-				background-image: -webkit-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
-				background-image: -ms-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
-				background-image: linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
+				background-image: -moz-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: -webkit-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: -ms-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
+				background-image: linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("https://campbellhc.github.io/alternate/px-arcana/main/images/bg01.png");
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
