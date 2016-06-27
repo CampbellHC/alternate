@@ -2678,7 +2678,7 @@
 	#banner {
 		background-color: #f6f6f6;
 		background-attachment: scroll,								fixed;
-		background-image: https://campbellhc.github.io/alternate/px-catalyst/main/, url("https://campbellhc.github.io/alternate/px-catalyst/main//images/banner.jpg");
+		background-image: url("https://campbellhc.github.io/alternate/px-catalyst/main/assets/css/images/overlay.png"), url("https://campbellhc.github.io/alternate/px-catalyst/main//images/banner.jpg");
 		background-position: top left,							center center;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								cover;
