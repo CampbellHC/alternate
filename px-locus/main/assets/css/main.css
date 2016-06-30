@@ -1579,7 +1579,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #689aa0 !important;
+			color: #689AA0 !important;
 			text-decoration: none;
 		}
 
@@ -1811,7 +1811,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #689aa0;
+			border-color: #689AA0;
 		}
 
 	.select-wrapper {
@@ -1920,7 +1920,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #689aa0;
+			border-color: #689AA0;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2357,8 +2357,8 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #689aa0;
-			border-color: #689aa0 !important;
+			background-color: #689AA0;
+			border-color: #689AA0 !important;
 			color: #ffffff !important;
 		}
 
@@ -2546,7 +2546,7 @@
 	}
 
 		#header:before {
-			background: #689aa0;
+			background: #689AA0;
 			content: '';
 			display: block;
 			height: 8em;
@@ -2562,7 +2562,7 @@
 			-webkit-transform: rotate(45deg);
 			-ms-transform: rotate(45deg);
 			transform: rotate(45deg);
-			background: #689aa0;
+			background: #689AA0;
 			content: '';
 			display: block;
 			height: 2.8em;
