@@ -1409,7 +1409,7 @@
 
 	body {
 		background-attachment: fixed, fixed;
-		background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.png"), url("http://staging.bsideslv.com/wp-content/uploads/2013/02/tuscany.jpg");
+		background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-down.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
 		background-position: center -315px, center top;
 		background-repeat: no-repeat;
 		background-size: auto, cover;
