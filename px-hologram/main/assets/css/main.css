@@ -1417,7 +1417,7 @@
 
 		body.landing {
 			background-attachment: scroll, scroll, fixed;
-			background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.svg"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-down.svg"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
+			background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.svg"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-down.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
 			background-position: center top, center bottom, center top;
 			background-size: auto, auto, cover;
 		}
