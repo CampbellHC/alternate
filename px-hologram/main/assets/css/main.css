@@ -1409,7 +1409,7 @@
 
 	body {
 		background-attachment: fixed, fixed;
-		background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.svg"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
+		background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
 		background-position: center -315px, center top;
 		background-repeat: no-repeat;
 		background-size: auto, cover;
@@ -1417,7 +1417,7 @@
 
 		body.landing {
 			background-attachment: scroll, scroll, fixed;
-			background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.svg"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-down.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
+			background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-down.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
 			background-position: center top, center bottom, center top;
 			background-size: auto, auto, cover;
 		}
@@ -2532,7 +2532,7 @@
 	}
 
 	header.style1, header.style2, header.style3, header.style4 {
-		background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/overlay.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/checker-pattern.svg");
+		background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/overlay.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/checker-pattern.png");
 		background-position: center top;
 		background-repeat: repeat;
 	}
@@ -3710,7 +3710,7 @@
 				}
 
 		.wrapper.style2, .wrapper.style3, .wrapper.style4 {
-			background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/overlay.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/checker-pattern.svg");
+			background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/overlay.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/checker-pattern.png");
 			background-position: center top;
 			background-repeat: repeat, repeat;
 		}
