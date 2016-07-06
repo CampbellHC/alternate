@@ -1612,7 +1612,7 @@
 	}
 
 	a {
-		color: #6c85ab;
+		color: #00A4B4;
 	}
 
 	strong, b {
@@ -2512,7 +2512,7 @@
 	}
 
 	header.style2 {
-		background-color: #00839B;
+		background-color: #00829A;
 		color: #fff;
 	}
 
@@ -2949,7 +2949,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #7cafa3;
+			background-color: #00829A;
 			color: #fff;
 		}
 
@@ -3035,7 +3035,7 @@
 				.wrapper.style2 .button.special {
 					background-color: #fff;
 					border-color: transparent;
-					color: #7cafa3 !important;
+					color: #00829A !important;
 				}
 
 					.wrapper.style2 input[type="submit"].special:hover,
@@ -3094,7 +3094,7 @@
 			.wrapper.style2 input[type="radio"]:checked + label:before {
 				background-color: #fff;
 				border-color: #fff;
-				color: #7cafa3;
+				color: #00829A;
 			}
 
 			.wrapper.style2 input[type="checkbox"]:focus + label:before,
@@ -3201,7 +3201,7 @@
 				}
 
 		.wrapper.style3 {
-			background-color: #6c85ab;
+			background-color: #00A4B4;
 			color: #fff;
 		}
 
@@ -3287,7 +3287,7 @@
 				.wrapper.style3 .button.special {
 					background-color: #fff;
 					border-color: transparent;
-					color: #6c85ab !important;
+					color: #00A4B4 !important;
 				}
 
 					.wrapper.style3 input[type="submit"].special:hover,
@@ -3346,7 +3346,7 @@
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background-color: #fff;
 				border-color: #fff;
-				color: #6c85ab;
+				color: #00A4B4;
 			}
 
 			.wrapper.style3 input[type="checkbox"]:focus + label:before,
@@ -3453,7 +3453,7 @@
 				}
 
 		.wrapper.style4 {
-			background-color: #b67e96;
+			background-color: #425363;
 			color: #fff;
 		}
 
@@ -3539,7 +3539,7 @@
 				.wrapper.style4 .button.special {
 					background-color: #fff;
 					border-color: transparent;
-					color: #b67e96 !important;
+					color: #425363 !important;
 				}
 
 					.wrapper.style4 input[type="submit"].special:hover,
@@ -3598,7 +3598,7 @@
 			.wrapper.style4 input[type="radio"]:checked + label:before {
 				background-color: #fff;
 				border-color: #fff;
-				color: #b67e96;
+				color: #425363;
 			}
 
 			.wrapper.style4 input[type="checkbox"]:focus + label:before,
