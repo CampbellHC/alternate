@@ -4263,7 +4263,7 @@
 .css-typing
 {
     width: 30em;
-    align-content: center;
+    text-align: center;
     white-space:nowrap;
     overflow:hidden;
     -webkit-animation: type 5s steps(50, end);
