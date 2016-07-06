@@ -2512,17 +2512,17 @@
 	}
 
 	header.style2 {
-		background-color: #7cafa3;
+		background-color: #00839B;
 		color: #fff;
 	}
 
 	header.style3 {
-		background-color: #6c85ab;
+		background-color: #00A4B4;
 		color: #fff;
 	}
 
 	header.style4 {
-		background-color: #b67e96;
+		background-color: #425363;
 		color: #fff;
 	}
 
@@ -4263,7 +4263,8 @@
 .css-typing
 {
     width: 30em;
-    text-align: center;
+	align-content: center;
+	text-align: center;
     white-space:nowrap;
     overflow:hidden;
     -webkit-animation: type 5s steps(50, end);
