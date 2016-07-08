@@ -2522,7 +2522,7 @@
 	}
 
 	header.style4 {
-		background-color: #b67e96;
+		background-color: #425363;
 		color: #fff;
 	}
 
@@ -3453,7 +3453,7 @@
 				}
 
 		.wrapper.style4 {
-			background-color: #b67e96;
+			background-color: #425363;
 			color: #fff;
 		}
 
@@ -3539,7 +3539,7 @@
 				.wrapper.style4 .button.special {
 					background-color: #fff;
 					border-color: transparent;
-					color: #b67e96 !important;
+					color: #425363 !important;
 				}
 
 					.wrapper.style4 input[type="submit"].special:hover,
@@ -3598,7 +3598,7 @@
 			.wrapper.style4 input[type="radio"]:checked + label:before {
 				background-color: #fff;
 				border-color: #fff;
-				color: #b67e96;
+				color: #425363;
 			}
 
 			.wrapper.style4 input[type="checkbox"]:focus + label:before,
