@@ -1633,7 +1633,7 @@
 	}
 
 	hr {
-		border-bottom-color: rgba(255, 255, 255, 0.25);
+		border-bottom-color: rgba(255, 255, 255, 0.75);
 	}
 
 /* Box */
@@ -3231,7 +3231,7 @@
 			}
 
 			.wrapper.style3 hr {
-				border-bottom-color: rgba(255, 255, 255, 0.15);
+				border-bottom-color: rgba(255, 255, 255, 0.55);
 			}
 
 			.wrapper.style3 .box {
