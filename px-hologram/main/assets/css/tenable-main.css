@@ -1612,7 +1612,7 @@
 	}
 
 	a {
-		color: #00A5B5;
+		color: #00829A;
 	}
 
 	strong, b {
@@ -2512,12 +2512,12 @@
 	}
 
 	header.style2 {
-		background-color: #00829A;
+		background-color: #00A5B5;
 		color: #fff;
 	}
 
 	header.style3 {
-		background-color: #00A5B5;
+		background-color: #00829A;
 		color: #fff;
 	}
 
@@ -2949,7 +2949,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #00829A;
+			background-color: #00A5B5;
 			color: #fff;
 		}
 
@@ -3035,7 +3035,7 @@
 				.wrapper.style2 .button.special {
 					background-color: #fff;
 					border-color: transparent;
-					color: #00829A !important;
+					color: #00A5B5 !important;
 				}
 
 					.wrapper.style2 input[type="submit"].special:hover,
@@ -3094,7 +3094,7 @@
 			.wrapper.style2 input[type="radio"]:checked + label:before {
 				background-color: #fff;
 				border-color: #fff;
-				color: #00829A;
+				color: #00A5B5;
 			}
 
 			.wrapper.style2 input[type="checkbox"]:focus + label:before,
@@ -3201,7 +3201,7 @@
 				}
 
 		.wrapper.style3 {
-			background-color: #00A5B5;
+			background-color: #00829A;
 			color: #fff;
 		}
 
@@ -3287,7 +3287,7 @@
 				.wrapper.style3 .button.special {
 					background-color: #fff;
 					border-color: transparent;
-					color: #00A5B5 !important;
+					color: #00829A !important;
 				}
 
 					.wrapper.style3 input[type="submit"].special:hover,
@@ -3346,7 +3346,7 @@
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background-color: #fff;
 				border-color: #fff;
-				color: #00A5B5;
+				color: #00829A;
 			}
 
 			.wrapper.style3 input[type="checkbox"]:focus + label:before,
