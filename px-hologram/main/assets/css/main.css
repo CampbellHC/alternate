@@ -1,11 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300");
 
-/*
-	Hologram by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
 
 /* Reset */
 
@@ -1445,7 +1440,7 @@
 
 	body {
 		background-color: #fff;
-		color: #FFFFFF;
+		color: #484459;
 	}
 
 	body, input, select, textarea {
@@ -2513,7 +2508,7 @@
 
 	header.style1 {
 		background-color: #fff;
-		color: #FFFFFF;
+		color: #484459;
 	}
 
 	header.style2 {
