@@ -1440,7 +1440,7 @@
 
 	body {
 		background-color: #fff;
-		color: #484459;
+		color: #FFFFFFF;
 	}
 
 	body, input, select, textarea {
@@ -1811,7 +1811,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #484459;
+			background-color: #FFFFFFF;
 			border-color: transparent;
 			color: #fff !important;
 		}
@@ -2033,7 +2033,7 @@
 
 	input[type="checkbox"] + label,
 	input[type="radio"] + label {
-		color: #484459;
+		color: #FFFFFFF;
 	}
 
 		input[type="checkbox"] + label:before,
@@ -2044,8 +2044,8 @@
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #484459;
-		border-color: #484459;
+		background-color: #FFFFFFF;
+		border-color: #FFFFFFF;
 		color: #fff;
 	}
 
@@ -2409,12 +2409,12 @@
 
 			ul.alt-icons .icon:hover {
 				background-color: rgba(144, 144, 144, 0.15);
-				color: #484459;
+				color: #FFFFFFF;
 			}
 
 			ul.alt-icons .icon:active {
 				background-color: rgba(144, 144, 144, 0.2);
-				color: #484459;
+				color: #FFFFFFF;
 			}
 
 /* Section/Article */
@@ -2508,7 +2508,7 @@
 
 	header.style1 {
 		background-color: #fff;
-		color: #484459;
+		color: #FFFFFFF;
 	}
 
 	header.style2 {
@@ -3988,7 +3988,7 @@
 			}
 
 			#menu .close:hover {
-				color: #484459;
+				color: #FFFFFFF;
 			}
 
 			@media screen and (max-width: 736px) {
