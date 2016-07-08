@@ -1612,7 +1612,7 @@
 	}
 
 	a {
-		color: #6c85ab;
+		color: #00A5B5;
 	}
 
 	strong, b {
@@ -2517,7 +2517,7 @@
 	}
 
 	header.style3 {
-		background-color: #6c85ab;
+		background-color: #00A5B5;
 		color: #fff;
 	}
 
@@ -3201,7 +3201,7 @@
 				}
 
 		.wrapper.style3 {
-			background-color: #6c85ab;
+			background-color: #00A5B5;
 			color: #fff;
 		}
 
@@ -3287,7 +3287,7 @@
 				.wrapper.style3 .button.special {
 					background-color: #fff;
 					border-color: transparent;
-					color: #6c85ab !important;
+					color: #00A5B5 !important;
 				}
 
 					.wrapper.style3 input[type="submit"].special:hover,
@@ -3346,7 +3346,7 @@
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background-color: #fff;
 				border-color: #fff;
-				color: #6c85ab;
+				color: #00A5B5;
 			}
 
 			.wrapper.style3 input[type="checkbox"]:focus + label:before,
