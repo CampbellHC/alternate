@@ -1404,7 +1404,7 @@
 
 	body {
 		background-attachment: fixed, fixed;
-		background-image: url("checker-pattern.svg"), url("checker-pattern.svg"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg-tenable.jpg");
+		background-image: url("https://dl.dropbox.com/s/smew9lnkhnq0lyq/checker-pattern.svg?dl=0"), url("https://dl.dropbox.com/s/smew9lnkhnq0lyq/checker-pattern.svg?dl=0"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg-tenable.jpg");
 		background-position: center -315px, center top;
 		background-repeat: no-repeat;
 		background-size: auto, cover;
@@ -1412,7 +1412,7 @@
 
 		body.landing {
 			background-attachment: scroll, scroll, fixed;
-			background-image: url("https://dl.dropbox.com/s/smew9lnkhnq0lyq/checker-pattern.svg?dl=0"), url("https://dl.dropbox.com/s/smew9lnkhnq0lyq/checker-pattern.svg?dl=0"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
+			background-image: url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-up.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/angular-lines-down.png"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
 			background-position: center top, center bottom, center top;
 			background-size: auto, auto, cover;
 		}
