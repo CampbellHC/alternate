@@ -1,4 +1,4 @@
-@import url(font-awesome.min.css);
+@import url(https://campbellhc.github.io/alternate/px-hologram/main/assets/css/font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300");
 
 
@@ -2466,9 +2466,9 @@
 		}
 
 			header.major h1:before, header.major h1:after, header.major h2:before, header.major h2:after {
-				background-color: currentColor;
+				background-color: #fff;
 				content: '';
-				opacity: 0.2;
+				opacity: 0.8;
 				position: absolute;
 			}
 
@@ -4079,7 +4079,7 @@
 
 		#banner p {
 			font-size: 0.9em;
-			margin-bottom: 3.15em;
+			margin-bottom: 0em;
 		}
 
 		#banner .button {
