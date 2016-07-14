@@ -4293,7 +4293,8 @@ right:0;
 bottom: 0;
 height:400px;
 width: 260px;
-background: #fff;        
+background: #fff;  
+overflow: scroll;    
 -webkit-transition: .5s ease-in-out;
 -moz-transition: .5s ease-in-out;
 -o-transition: .5s ease-in-out;
@@ -4309,6 +4310,7 @@ right:0;
 bottom: 0;
 max-height: 70%;
 max-width: 100%;
+
 -webkit-transition: .5s ease-in-out;
 -moz-transition: .5s ease-in-out;
 -o-transition: .5s ease-in-out;
