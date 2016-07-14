@@ -4284,8 +4284,7 @@ transition: opacity .5s ease-in-out;
 overflow: hidden;
 }
 
-.lightbox-target .join-us {
-z-index: 10000 !important;    
+.lightbox-target .join-us {   
 margin: auto;
 position: absolute;
 top: 0;
@@ -4397,8 +4396,4 @@ top: 0px;
 
 .glassdoor:hover img:last-child{
     display:inline-block;
-}
-
-.jv-talentPoolWidget {
-    background: #fff !important;
 }
