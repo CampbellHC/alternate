@@ -4308,8 +4308,7 @@ transition: .5s ease-in-out;
 }
 
 
-.lightbox-target iframe {
-z-index: 10000 !important;    
+.lightbox-target iframe {    
 margin: auto;
 position: absolute;
 top: 0;
