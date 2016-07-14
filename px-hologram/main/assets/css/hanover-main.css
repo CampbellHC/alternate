@@ -4390,3 +4390,9 @@ top: 0px;
 .glassdoor:hover img:last-child{
     display:inline-block;
 }
+
+@media screen and (max-width: 600px) {
+    .mobile {
+        font-size: 22px !important;
+    }
+}
