@@ -4399,3 +4399,7 @@ top: 0px;
 .glassdoor:hover img:last-child{
     display:inline-block;
 }
+
+.jv-talentPoolWidget {
+    background: #fff !important;
+}
