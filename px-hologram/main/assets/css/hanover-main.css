@@ -1409,7 +1409,7 @@
 
 	body {
 		background-attachment: fixed, fixed;
-		background-image: url("https://dl.dropbox.com/s/smew9lnkhnq0lyq/checker-pattern.svg?dl=0"), url("https://dl.dropbox.com/s/smew9lnkhnq0lyq/checker-pattern.svg?dl=0"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg.jpg");
+		background-image: url("https://dl.dropbox.com/s/smew9lnkhnq0lyq/checker-pattern.svg?dl=0"), url("https://dl.dropbox.com/s/smew9lnkhnq0lyq/checker-pattern.svg?dl=0"), url("https://campbellhc.github.io/alternate/px-hologram/main/images/bg-hanover.jpg");
 		background-position: center -315px, center top;
 		background-repeat: no-repeat;
 		background-size: auto, cover;
@@ -2459,7 +2459,7 @@
 	}
 
 	header.major {
-		padding: 5.5em 0 3.1em 0 ;
+		padding: 3em 0 1em 0 ;
 	}
 
 		header.major h1, header.major h2 {
@@ -2517,12 +2517,12 @@
 	}
 
 	header.style2 {
-		background-color: #7cafa3;
+		background-color: #003150;
 		color: #fff;
 	}
 
 	header.style3 {
-		background-color: #6c85ab;
+		background-color: #003150;
 		color: #fff;
 	}
 
@@ -2714,7 +2714,7 @@
 	}
 
 		.split > * {
-			padding: 4.5em 2.5em 2.1em 2.5em ;
+			padding: 4em 2.5em 2.1em 2.5em ;
 			margin-bottom: 0;
 			width: 50%;
 		}
@@ -3206,7 +3206,7 @@
 				}
 
 		.wrapper.style3 {
-			background-color: #6c85ab;
+			background-color: #003150;
 			color: #fff;
 		}
 
@@ -4268,8 +4268,7 @@
 
 
 
-
-/* Styles the lightbox, removes it from sight and adds the fade-in transition */
+/* Lightbox */
 
 .lightbox-target {
 position: fixed;
@@ -4284,8 +4283,6 @@ opacity: 0;
 transition: opacity .5s ease-in-out;
 overflow: hidden;
 }
-
-/* Styles the lightbox image, centers it vertically and horizontally, adds the zoom-in transition and makes it responsive using a combination of margin and absolute positioning */
 
 .lightbox-target .join-us {
 z-index: 10000 !important;    
@@ -4303,7 +4300,21 @@ max-width: 100%;
 transition: .5s ease-in-out;
 }
 
-/* Styles the close link, adds the slide down transition */
+.lightbox-target iframe {
+z-index: 10000 !important;    
+margin: auto;
+position: absolute;
+top: 0;
+left:0;
+right:0;
+bottom: 0;
+max-height: 70%;
+max-width: 100%;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+}
 
 a.lightbox-close {
 display: block;
@@ -4322,8 +4333,6 @@ right: 0;
 transition: .5s ease-in-out;
 }
 
-/* Provides part of the "X" to eliminate an image from the close link */
-
 a.lightbox-close:before {
 content: "";
 display: block;
@@ -4338,8 +4347,6 @@ top:10px;
 -o-transform:rotate(45deg);
 transform:rotate(45deg);
 }
-
-/* Provides part of the "X" to eliminate an image from the close link */
 
 a.lightbox-close:after {
 content: "";
@@ -4356,7 +4363,6 @@ top:10px;
 transform:rotate(-45deg);
 }
 
-/* Uses the :target pseudo-class to perform the animations upon clicking the .lightbox-target anchor */
 
 .lightbox-target:target {
 opacity: 1;
@@ -4364,11 +4370,24 @@ top: 0;
 bottom: 0;
 }
 
-.lightbox-target:target img {
-max-height: 100%;
-max-width: 100%;
-}
 
 .lightbox-target:target a.lightbox-close {
 top: 0px;
+}
+
+.hanover img {
+    width:75%;
+    float: none;
+}
+
+.glassdoor img:last-child{
+    display:none;
+}
+
+.glassdoor:hover img:first-child{
+    display:none;
+}
+
+.glassdoor:hover img:last-child{
+    display:inline-block;
 }
