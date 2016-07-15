@@ -4272,3 +4272,9 @@
 .glassdoor:hover img:last-child{
     display:inline-block;
 }
+
+@media screen and (max-width: 405px) {
+    .mobile p {
+        font-size: 14px !important;
+    }
+}
