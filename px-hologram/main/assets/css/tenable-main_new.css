@@ -2240,6 +2240,8 @@
 				}
 
 		ul.alt-icons {
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
 			display: inline-flex;
 			border-radius: 4px;
 			border: solid 2px;
