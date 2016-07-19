@@ -2751,10 +2751,6 @@
 
 /* Header */
 
-	#page-wrapper {
-		padding-top: 3em;
-	}
-
 	body.landing #page-wrapper {
 		padding-top: 0;
 	}
