@@ -2751,7 +2751,7 @@
 
 /* Header */
 
-	body.landing #page-wrapper {
+	body #page-wrapper {
 		padding-top: 0;
 	}
 
@@ -3608,7 +3608,7 @@
 						padding-bottom: 1em;
 					}
 
-			body.landing #main {
+			body #main {
 				padding: 0;
 				margin-top: 0;
 			}
