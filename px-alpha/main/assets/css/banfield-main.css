@@ -44,9 +44,10 @@
 		border-spacing: 0;
 	}
 
-	body {
+	html, body {
 		-webkit-text-size-adjust: none;
-		overflow-x: hidden;
+        overflow-x: hidden;
+        -webkit-overflow-x: hidden;
 	}
 
 /* Box Model */
