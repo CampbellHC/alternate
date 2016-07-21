@@ -2246,8 +2246,9 @@
 
 		ul.alt-icons {
 			display: -webkit-inline-flex;
-            display: -ms-inline-flexbox;
-            display: -moz-inline-flexbox;
+            display: -ms-inline-flex;
+            display: -moz-inline-flex;
+            display: inline-flex;
 			border-radius: 4px;
 			border: solid 2px;
 			list-style-type: none;
