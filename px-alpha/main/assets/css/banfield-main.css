@@ -1,11 +1,10 @@
+/*
+	HireClix 2016 | www.hireclix.com
+*/
+
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
 
-/*
-	Alpha by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
 
 /* Reset */
 
@@ -3173,6 +3172,7 @@
 	#cta {
 		background: url(https://raw.githubusercontent.com/hireclix/hchosting/gh-pages/images/Banfield/vet-banner-blue.jpg);
         background-attachment: fixed;
+        background-repeat: no-repeat;
 		color: #e2eaf7;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
@@ -3781,12 +3781,20 @@
     width: 50px;
 }
 
+
 a.glassdoor {
     border-bottom: none !important;
     position: relative;
-    top: 1em;
+    top: .85em;
     right: 1em;
+}
+
+@media screen and (max-width: 1285px) {
+    a.glassdoor {
+        top: 1.15em;
+        right: 1em;
     
+    }
 }
 
 ul.icons li:last-child {
